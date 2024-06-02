@@ -1,0 +1,41 @@
+.secure-wallet-section {
+    display: flex;
+    align-items: center;
+    margin-bottom: 200px;
+    gap: 20px;
+}
+
+.secure-wallet-section .title {
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 65px;
+}
+
+.secure-wallet-section .row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.secure-wallet-section .component {
+    width: 250px;
+    height: 150px;
+}
+
+.secure-wallet-section .component-title {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #18181B;
+}
+
+.secure-wallet-section .component-description {
+    font-size: 15px;
+    line-height: 24px;
+    color: #27272A;
+}
+
+.secure-wallet-section .phone-img {
+    width: 524px;
+    height: 460px;
+}

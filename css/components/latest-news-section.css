@@ -1,0 +1,85 @@
+.latest-news-section .title {
+    margin-top: 160px;
+    margin-bottom: 70px;
+    text-align: center;
+}
+.latest-news-section .subtitle {
+    margin: 60px 0;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    color: #18181B;
+}
+
+.latest-news-section .cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.latest-news-section .card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 357px;
+    height: 344px;
+}
+.latest-news-section .card-header {
+    img {
+        width: 100%;
+        height: auto;
+    }
+}
+
+.latest-news-section .card-body {
+    padding: 20px;
+}
+
+.latest-news-section .row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+}
+
+.latest-news-section .newsletter {
+    font-size: 12px;
+    line-height: 12px;
+    background-color: #BDFFEB;
+    text-align: center;
+    padding: 5px 10px;
+    color: #18181B;
+}
+
+.latest-news-section .date {
+    font-size: 12px;
+    color: #18181B;
+    text-transform: uppercase;
+}
+
+.latest-news-section .card-title {
+    font-size: 24px;
+    line-height: 30px;
+    color: #18181B;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.latest-news-section .card-subtitle {
+    font-size: 16px;
+    line-height: 20px;
+    color: #18181B;
+}
+
+.latest-news-section .social-media-list {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.latest-news-section .social-media {
+    display: flex;
+    justify-content: center;
+}

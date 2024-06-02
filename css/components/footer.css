@@ -1,0 +1,51 @@
+.footer {
+    margin-top: 90px;
+}
+
+.footer nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer .column {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.footer .column .header {
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 1px;
+}
+
+.footer .item {
+    font-size: 12px;
+    line-height: 21px;
+}
+
+.footer .social-media {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.footer .c-information {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    font-size: 12px;
+    line-height: 12px;
+    color: #27272A;
+    margin: 85px 0;
+}
+
+.footer .btc-markets-information {
+    font-size: 12px;
+    line-height: 12px;
+    color: #27272A;
+    text-align: center;
+    margin-bottom: 20px;
+}

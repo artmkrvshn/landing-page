@@ -1,0 +1,15 @@
+.outlined-button {
+    font-size: 12px;
+    padding: 9px 17px;
+    border: #18181B 1px solid;
+    border-radius: 5px;
+    background: #fff;
+}
+
+.filled-button {
+    font-size: 12px;
+    padding: 9px 17px;
+    border: #4CFDC7 1px solid;
+    border-radius: 5px;
+    background: #4CFDC7 ;
+}

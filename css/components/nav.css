@@ -1,0 +1,20 @@
+.nav .list {
+    display: flex;
+    /*justify-content: space-between;*/
+    align-items: center;
+}
+
+.nav .list .item {
+    margin-right: 60px;
+}
+
+.nav .list .item:last-child {
+    margin-right: 0;
+}
+
+.nav .list .item .link {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+    font-family: Lexend, sans-serif, Arial;
+}
