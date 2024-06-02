@@ -1,0 +1,64 @@
+.need-more-section {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    align-items: center;
+}
+
+.need-more-section .title {
+    font-size: 40px;
+    line-height: 50px;
+    width: 530px;
+    text-align: center;
+}
+
+.need-more-section .subtitle {
+    font-size: 15px;
+    line-height: 24px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.need-more-section .features {
+    display: flex;
+    gap: 85px;
+}
+
+.need-more-section .feature {
+    display: flex;
+    gap: 10px;
+}
+
+.need-more-section .outlined-button {
+    margin: 55px 0;
+    font-size: 16px;
+}
+
+.need-more-section .img {
+    width: 1082px;
+    height: 472px;
+}
+
+
+/*<p class="title"> When you need more than just a crypto exchange</p>*/
+
+/*<p class="subtitle">Access world-class APIs, a lower fee structure and a dedicated Account Manager.</p>*/
+
+/*<div class="features">*/
+/*<div class="feature">*/
+/*<img src="img/svg/icon_api_integrations.svg" alt="Icon">*/
+/*<div class="feature-description">API integrations</div>*/
+/*</div>*/
+/*<div class="feature">*/
+/*<img src="img/svg/icon_lower_fees.svg" alt="Icon">*/
+/*<div class="feature-description">Lower fees</div>*/
+/*</div>*/
+/*<div class="feature">*/
+/*<img src="img/svg/icon_create_account.svg" alt="Icon">*/
+/*<div class="feature-description">Dedicated Account Manager</div>*/
+/*</div>*/
+/*</div>*/
+
+/*<button class="outlined-button">Learn more</button>*/
+
+/*<img src="img/btc_to_dollar_page.jpg" alt="BTC to dollar">*/

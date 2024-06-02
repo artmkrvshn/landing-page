@@ -1,0 +1,69 @@
+.trade-section {
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.trade-section .info {
+    display: flex;
+    flex-direction: column;
+}
+
+.trade-section img {
+    margin: 0 80px;
+    width: 293px;
+    height: 536px;
+}
+
+.trade-section .title {
+    max-width: 660px;
+}
+
+.trade-section .subtitle {
+    margin: 30px 0;
+    max-width: 460px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.trade-section .button-group {
+    display: flex;
+    gap: 15px;
+}
+
+/*.hero-section {*/
+/*    padding-top: 10%;*/
+/*    padding-bottom: 10%;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: space-between;*/
+/*}*/
+
+/*.hero-section .title {*/
+/*    margin-right: 12%;*/
+/*}*/
+
+/*.hero-section img {*/
+/*    flex-shrink: 0;*/
+/*    width: 30%;*/
+/*}*/
+
+/*@media screen and (max-width: 768px) {*/
+/*    .hero-section {*/
+/*        flex-direction: column;*/
+/*        padding-bottom: 20%;*/
+/*    }*/
+
+/*    .hero-section img {*/
+/*        order: -1;*/
+/*        margin-bottom: 30px;*/
+/*        width: 50%;*/
+/*    }*/
+
+/*    .hero-section .title {*/
+/*        margin-right: 0;*/
+/*        text-align: center;*/
+/*    }*/
+/*}*/
