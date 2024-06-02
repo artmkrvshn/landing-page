@@ -17,6 +17,10 @@
 }
 
 .trade-section .title {
+    font-size: 71px;
+    line-height: 90px;
+    letter-spacing: 1px;
+    color: #000000;
     max-width: 660px;
 }
 
