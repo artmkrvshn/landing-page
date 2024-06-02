@@ -6,10 +6,18 @@
     background: #fff;
 }
 
+.outlined-button:hover {
+    cursor: pointer;
+}
+
 .filled-button {
     font-size: 12px;
     padding: 9px 17px;
     border: #4CFDC7 1px solid;
     border-radius: 5px;
-    background: #4CFDC7 ;
+    background: #4CFDC7;
+}
+
+.filled-button:hover {
+    cursor: pointer;
 }
